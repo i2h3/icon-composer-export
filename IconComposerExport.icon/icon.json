@@ -1,0 +1,39 @@
+{
+  "fill" : {
+    "automatic-gradient" : "srgb:0.72157,0.49412,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "automatic-gradient" : "extended-gray:1.00000,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "Pretzel.svg",
+          "name" : "Pretzel",
+          "position" : {
+            "scale" : 0.75,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "macOS"
+    ]
+  }
+}
